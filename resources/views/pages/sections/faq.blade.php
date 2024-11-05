@@ -15,69 +15,62 @@
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1">
                                     <i class="fa fa-comment" aria-hidden="true"></i>
-                                    Brisket landjaeger drumstick?
+                                    What is bookkeeping?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse1" class="panel-collapse collapse in">
                             <div class="panel-body">
-                                Bresaola doner corned beef pork chop. Biltong meatloaf briske t-bone filet
-                                mignon, jerky alcatra turkey shoulder picanha fatback chuck pastrami
-                                venison.
+                                Bookkeeping is the process of recording financial transactions systematically to
+                                maintain accurate financial records.
                             </div>
                         </div>
                     </div>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse2"
-                                    class="collapsed">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse2" class="collapsed">
                                     <i class="fa fa-comment" aria-hidden="true"></i>
-                                    Pastrami venison flank?
+                                    Why do I need bookkeeping?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse2" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Bresaola doner corned beef pork chop. Biltong meatloaf briske t-bone filet
-                                mignon, jerky alcatra turkey shoulder picanha fatback chuck pastrami
-                                venison.
+                                It helps manage finances, ensures compliance, and provides insights into your business's
+                                financial health.
                             </div>
                         </div>
                     </div>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse3"
-                                    class="collapsed">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse3" class="collapsed">
                                     <i class="fa fa-comment" aria-hidden="true"></i>
-                                    Turducken salami jerky fatba?
+                                    What services do you offer?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse3" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Bresaola doner corned beef pork chop. Biltong meatloaf briske t-bone filet
-                                mignon, jerky alcatra turkey shoulder picanha fatback chuck pastrami
-                                venison.
+                                We offer accounts payable/receivable, bank reconciliation, payroll processing, tax
+                                preparation, and financial reporting.
                             </div>
                         </div>
                     </div>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse4"
-                                    class="collapsed">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#collapse4" class="collapsed">
                                     <i class="fa fa-comment" aria-hidden="true"></i>
-                                    Tail corned beef turkey?
+                                    What software do you use?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse4" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Bresaola doner corned beef pork chop. Biltong meatloaf briske t-bone filet
-                                mignon, jerky alcatra turkey shoulder picanha fatback chuck pastrami
-                                venison.
+                                We use various accounting software like QuickBooks, Xero, and FreshBooks, depending on
+                                client needs.
                             </div>
                         </div>
                     </div>
@@ -101,16 +94,16 @@
                             <div class="inline-block">
                                 <ul class="list2 centered-list padding_0">
                                     <li>
-                                        <i class="fa fa-check highlight2 rightmargin_10"
-                                            aria-hidden="true"></i> Fatback beef ribs
+                                        <i class="fa fa-check highlight2 rightmargin_10" aria-hidden="true"></i> Fatback
+                                        beef ribs
                                     </li>
                                     <li>
-                                        <i class="fa fa-check highlight2 rightmargin_10"
-                                            aria-hidden="true"></i> Shankle shank cow
+                                        <i class="fa fa-check highlight2 rightmargin_10" aria-hidden="true"></i> Shankle
+                                        shank cow
                                     </li>
                                     <li>
-                                        <i class="fa fa-check highlight2 rightmargin_10"
-                                            aria-hidden="true"></i> Alcatra pig flank
+                                        <i class="fa fa-check highlight2 rightmargin_10" aria-hidden="true"></i> Alcatra
+                                        pig flank
                                     </li>
                                 </ul>
                             </div>

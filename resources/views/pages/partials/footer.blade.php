@@ -2,17 +2,24 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-md-4 col-sm-12">
+            <div class="col-md-8 col-sm-12">
                 <div class="widget">
                     <a href="./" class="logo bottommargin_20">
-                        <img src="images/logo-small.png" alt="">
+                        {{-- <img src="images/logo-small.png" alt=""> --}}
                         <span class="logo_text">
-                            <span class="big">BooKeeper</span>
+                            <span class="big">Pure Ledger</span>
                         </span>
                     </a>
                     <p>
-                        Ball tip kevin bacon drumstick beef pork belly boudin picanha burgdoggen.
+                        We provide tailored bookkeeping and accounting solutions, acting as your dedicated partner for
+                        personalized financial management. Our expertise ensures accurate records and compliance,
+                        keeping you informed for better business decisions.
                     </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-12">
+                <div class="widget">
                     <div class="media small-teaser inline-block margin_0">
                         <div class="media-left media-middle">
                             <i class="fa fa-map-marker highlight" aria-hidden="true"></i>
@@ -36,13 +43,13 @@
                             <i class="fa fa-envelope highlight" aria-hidden="true"></i>
                         </div>
                         <div class="media-body media-middle darklinks">
-                            <a href="#">bookepper@support.com</a>
+                            <a href="#">info@purelegder.com</a>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-6">
+            {{-- <div class="col-md-4 col-sm-6">
                 <div class="widget widget_recent_posts topmargin_25">
 
                     <h3 class="widget-title">Recent Posts</h3>
@@ -101,16 +108,16 @@
 
                     </ul>
                 </div>
-            </div>
+            </div> --}}
 
-            <div class="col-md-4 col-sm-6">
+            {{-- <div class="col-md-4 col-sm-6">
                 <div class="widget widget_instagram topmargin_25">
                     <h3 class="widget-title">Instagram</h3>
                     <div class="instafeed">
 
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
         </div>
     </div>

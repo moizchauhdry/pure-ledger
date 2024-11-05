@@ -2,7 +2,7 @@
 <section id="contact" class="cs main_color3 section_padding_top_30 section_padding_bottom_30">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <div class="media small-teaser teaser inline-block">
                     <div class="media-left media-middle">
                         <div class="teaser_icon light_bg_color highlight3 size_small">
@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <div class="media small-teaser teaser inline-block">
                     <div class="media-left media-middle">
                         <div class="teaser_icon light_bg_color highlight3 size_small">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0">
+            {{-- <div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0">
                 <div class="widget widget_mailchimp">
                     <form class="signup topmargin_10" action="./" method="get">
                         <div class="form-group margin_0">
@@ -41,7 +41,7 @@
                         <div class="response"></div>
                     </form>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </section>

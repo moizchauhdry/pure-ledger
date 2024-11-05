@@ -20,8 +20,8 @@
                                         </h2>
                                     </div>
                                     <div class="intro-layer" data-animation="fadeInLeft">
-                                        <p class="small-text grey">The priority pyramid</p>
-                                        <a href="about.html" class="theme_button inverse">Read more</a>
+                                        <p class="small-text grey">All Business Types</p>
+                                        <a href="#consultation" class="theme_button inverse">Free Consultation</a>
                                     </div>
                                 </div>
                                 <!-- eof .slide_description -->

@@ -2,7 +2,7 @@
 <html class="no-js">
 
 <head>
-    <title>BooKeeper</title>
+    <title>Pure Ledger</title>
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,9 +56,9 @@
             @include('pages.sections.team')
             @include('pages.sections.reviews')
             @include('pages.sections.faq')
-            @include('pages.sections.blog')
+            {{-- @include('pages.sections.blog') --}}
             @include('pages.sections.contact')
-            @include('pages.sections.map')
+            {{-- @include('pages.sections.map') --}}
 
             @include('pages.partials.footer')
 

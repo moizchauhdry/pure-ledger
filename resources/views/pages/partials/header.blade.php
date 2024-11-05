@@ -1,4 +1,4 @@
-<section class="page_topline ls section_padding_top_15 section_padding_bottom_15 columns_padding_0">
+{{-- <section class="page_topline ls section_padding_top_15 section_padding_bottom_15 columns_padding_0">
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-2 text-center text-sm-left greylinks">
@@ -47,7 +47,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 <header class="page_header header_darkgrey header_darkblue header_logo_center">
     <div class="container-fluid">
@@ -55,7 +55,9 @@
             <div class="col-sm-12 text-md-center">
                 <div class="logo_wrapper">
                     <a href="./" class="logo top_logo">
-                        <img src="images/logo.png" alt="">
+                        <span class="logo_text">
+                            <span class="big">Pure Ledger</span>
+                        </span>
                     </a>
                 </div>
                 <!-- header toggler -->
