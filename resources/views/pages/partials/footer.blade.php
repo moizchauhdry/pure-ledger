@@ -43,7 +43,7 @@
                             <i class="fa fa-envelope highlight" aria-hidden="true"></i>
                         </div>
                         <div class="media-body media-middle darklinks">
-                            <a href="#">info@purelegder.com</a>
+                            <a href="#">developer@moizchauhdry.com</a>
                         </div>
                     </div>
                 </div>
