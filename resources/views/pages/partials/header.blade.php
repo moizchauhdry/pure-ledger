@@ -56,7 +56,7 @@
                 <div class="logo_wrapper">
                     <a href="./" class="logo top_logo">
                         <span class="logo_text">
-                            <span class="big">Pure Ledger</span>
+                            <span class="big">Pure Ledgers</span>
                         </span>
                     </a>
                 </div>
