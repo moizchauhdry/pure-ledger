@@ -7,7 +7,7 @@
                     <a href="./" class="logo bottommargin_20">
                         {{-- <img src="images/logo-small.png" alt=""> --}}
                         <span class="logo_text">
-                            <span class="big">Pure Ledger</span>
+                            <span class="big">Pure Ledgers</span>
                         </span>
                     </a>
                     <p>
@@ -34,7 +34,7 @@
                             <i class="fa fa-phone highlight" aria-hidden="true"></i>
                         </div>
                         <div class="media-body media-middle">
-                            +8 (800) 923 4567
+                            +1 (123) 456 7890
                         </div>
                     </div>
                     <br>
@@ -43,7 +43,7 @@
                             <i class="fa fa-envelope highlight" aria-hidden="true"></i>
                         </div>
                         <div class="media-body media-middle darklinks">
-                            <a href="#">developer@moizchauhdry.com</a>
+                            <a href="#">info@pureledgers.com</a>
                         </div>
                     </div>
                 </div>
