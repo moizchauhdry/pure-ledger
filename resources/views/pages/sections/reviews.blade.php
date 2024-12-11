@@ -17,7 +17,7 @@
                             <h4 class="text-uppercase margin_0">
                                 <a href="#">Gregory Rondeau</a>
                             </h4>
-                            <p class="small-text big-spacing highlight">Director</p>
+                            {{-- <p class="small-text big-spacing highlight">Director</p> --}}
                         </div>
                     </blockquote>
 
@@ -31,7 +31,6 @@
                             <h4 class="text-uppercase margin_0">
                                 <a href="#">Lamar Owens</a>
                             </h4>
-                            <p class="small-text big-spacing highlight2">CEO</p>
                         </div>
                     </blockquote>
 
@@ -45,7 +44,6 @@
                             <h4 class="text-uppercase margin_0">
                                 <a href="#">Robert Wade</a>
                             </h4>
-                            <p class="small-text big-spacing highlight3">Designer</p>
                         </div>
                     </blockquote>
 

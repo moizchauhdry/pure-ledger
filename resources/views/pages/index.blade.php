@@ -53,7 +53,7 @@
             @include('pages.sections.services')
             @include('pages.sections.about')
             @include('pages.sections.consultation')
-            @include('pages.sections.team')
+            {{-- @include('pages.sections.team') --}}
             @include('pages.sections.reviews')
             @include('pages.sections.faq')
             {{-- @include('pages.sections.blog') --}}

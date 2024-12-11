@@ -83,9 +83,7 @@
                             <a href="#consultation">Consultation</a>
                         </li>
 
-                        <li>
-                            <a href="#team">Team</a>
-                        </li>
+                        {{-- <li><a href="#team">Team</a></li> --}}
 
                         <li>
                             <a href="#reviews">Reviews</a>
