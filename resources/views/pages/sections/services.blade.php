@@ -9,8 +9,8 @@
         <div class="row columns_padding_25 columns_margin_0">
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/financial.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/financial.webp" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Financial Statements</a>
@@ -23,8 +23,8 @@
             </div>
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/bookeeping.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/bookeeping.jpg" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Bookkeeping</a>
@@ -37,8 +37,8 @@
             </div>
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/audit.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/audit.png" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Account Audit</a>
@@ -51,8 +51,8 @@
             </div>
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/report.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/report.png" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Report Creation</a>
@@ -65,8 +65,8 @@
             </div>
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/account.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/advisory.jpg" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Accounting Advisory </a>
@@ -79,8 +79,8 @@
             </div>
             <div class="col-md-6">
                 <div class="with_padding teaser text-center">
-                    <div class="teaser_icon">
-                        <img src="images/services/receipt.png" alt="" />
+                    <div class="teaser_icon_tmp">
+                        <img src="images/services/2/receipt.jpg" alt="" />
                     </div>
                     <h4 class="text-uppercase">
                         <a href="#">Receipt Management </a>

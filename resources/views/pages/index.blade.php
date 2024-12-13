@@ -2,7 +2,7 @@
 <html class="no-js">
 
 <head>
-    <title>Pure Ledger</title>
+    <title>Pure Ledgers</title>
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
