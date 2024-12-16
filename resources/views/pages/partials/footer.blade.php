@@ -20,7 +20,7 @@
 
             <div class="col-md-4 col-sm-12">
                 <div class="widget">
-                    <div class="media small-teaser inline-block margin_0">
+                    {{-- <div class="media small-teaser inline-block margin_0">
                         <div class="media-left media-middle">
                             <i class="fa fa-map-marker highlight" aria-hidden="true"></i>
                         </div>
@@ -28,13 +28,13 @@
                             Baker st. 559, San Diego, USA
                         </div>
                     </div>
-                    <br>
+                    <br> --}}
                     <div class="media small-teaser inline-block margin_0">
                         <div class="media-left media-middle">
                             <i class="fa fa-phone highlight" aria-hidden="true"></i>
                         </div>
                         <div class="media-body media-middle">
-                            +8 (800) 923 4567
+                            +1 209 507-1033
                         </div>
                     </div>
                     <br>
