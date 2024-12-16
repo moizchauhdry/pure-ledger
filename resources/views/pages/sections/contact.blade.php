@@ -10,9 +10,9 @@
                         </div>
                     </div>
                     <div class="media-body media-middle regular">
-                        <span class="fontsize_14 black">Call Today 8 800 923 4567</span>
-                        <br>
-                        <span class="fontsize_12">Baker st. 559, San Diego, USA</span>
+                        <span class="fontsize_14 black">Call Today +1 209 507-1033</span>
+                        {{-- <br>
+                        <span class="fontsize_12">Baker st. 559, San Diego, USA</span> --}}
                     </div>
                 </div>
             </div>
