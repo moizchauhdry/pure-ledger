@@ -91,7 +91,7 @@
                     <div class="row columns_margin_bottom_0">
                         <div class="col-xs-12">
                             <h4 class="text-uppercase">structuring</h4>
-                            <div class="inline-block">
+                            {{-- <div class="inline-block">
                                 <ul class="list2 centered-list padding_0">
                                     <li>
                                         <i class="fa fa-check highlight2 rightmargin_10" aria-hidden="true"></i> Fatback
@@ -106,7 +106,7 @@
                                         pig flank
                                     </li>
                                 </ul>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
